@@ -1,0 +1,22 @@
+/* Cabeçalho */
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/*Imagem MENU */
+.menu{
+    width: 2rem;
+    height: auto;
+}
+
+/* Titulo */
+.titulo1{
+    font-family: Open sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    margin-right: 700px;
+}
