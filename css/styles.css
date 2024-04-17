@@ -93,6 +93,7 @@ input {
 #mapa > img{
     width: 200vw;
     user-select: none;
+}
 /* Cabeçalho */
 .cabecalho{
     display: flex;
